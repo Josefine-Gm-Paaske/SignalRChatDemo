@@ -11,7 +11,7 @@ using System.Threading.Tasks;
  * JavaScript client code that calls the method is shown later in the tutorial. 
  * SignalR code is asynchronous to provide maximum scalability.
  */
-
+ 
 namespace SignalRChatDemo.Hubs
 {
     public class ChatHub : Hub
